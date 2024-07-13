@@ -1,0 +1,4 @@
+C:\Users\Qwertyleniopa\Desktop\gly\lib\Debug\gly.lib
+C:\Users\Qwertyleniopa\Desktop\gly\lib\Debug\gly.pdb
+C:\Users\Qwertyleniopa\Desktop\Programs\Projects\OpenGL\gly\gly\lib\Debug\gly.lib
+C:\Users\Qwertyleniopa\Desktop\Programs\Projects\OpenGL\gly\gly\lib\Debug\gly.pdb

@@ -1,0 +1,9 @@
+﻿  DeltaTime.cpp
+  GLException.cpp
+  Image.cpp
+  Shader.cpp
+  ShaderProgram.cpp
+  text.cpp
+  Texture.cpp
+  Uniform.cpp
+  gly.vcxproj -> C:\Users\Qwertyleniopa\Desktop\Programs\Projects\OpenGL\gly\gly\lib\Release\gly.lib
